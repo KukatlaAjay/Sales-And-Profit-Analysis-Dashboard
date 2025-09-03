@@ -1,7 +1,7 @@
 # Sales-And-Profit-Analysis-Dashboard
 This project is a Power BI Dashboard built to analyze sales, profit, discounts, and order trends across different dimensions. The goal is to generate meaningful insights for better business decision-making.
 
- Business Requirements:
+# Business Requirements:
 
 1.Identify Top/Bottom 5 products by Sales, Profit, and Quantity Sold.
 
@@ -19,7 +19,7 @@ This project is a Power BI Dashboard built to analyze sales, profit, discounts, 
 
 8.Show Sales distribution by cities.
 
- Dashboard Features
+# Dashboard Features:
 
 Interactive Filters: Select product, date range, customer, and promotion category.
 
@@ -31,13 +31,13 @@ Top/Bottom Analysis: Quickly identify best and worst-performing products.
 
 Geographical Insights: City-wise sales performance.
 
-Tools & Technologies
+# Tools & Technologies:
 
 Power BI → For dashboard and data visualization.
 
 Excel → Data storage and preprocessing.
 
- How to Use
+# How to Use:
 
 Clone/download this repository.
 
@@ -47,7 +47,7 @@ Load the dataset (Store Data.xlsx) if required.
 
 Explore the interactive dashboard and apply filters.
 
- Key Insights
+# Key Insights:
 
 Identified top revenue-generating and loss-making products.
 
